@@ -1,0 +1,27 @@
+{
+  solutions: [
+    {"word": "able", "id": 1},
+    {"word": "acai", "id": 2},
+    {"word": "aced", "id": 3},
+    {"word": "aces", "id": 4},
+    {"word": "ache", "id": 5},
+    {"word": "acts", "id": 6},
+    {"word": "afro", "id": 7},
+    {"word": "ages", "id": 8},
+    {"word": "aloe", "id": 9},
+    {"word": "also", "id": 10},
+    {"word": "apex", "id": 11},
+    {"word": "aqua", "id": 12},
+    {"word": "area", "id": 13},
+    {"word": "aura", "id": 14},
+    {"word": "avid", "id": 15},
+    {"word": "axis", "id": 16},
+    {"word": "back", "id": 17},
+    {"word": "ball", "id": 18},
+    {"word": "bean", "id": 19},
+    {"word": "bite", "id": 20},
+    {"word": "blog", "id": 21},
+    {"word": "bold", "id": 22},
+    {"word": "busy", "id": 23},
+  ]
+}
