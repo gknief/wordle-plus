@@ -9,13 +9,14 @@ function App() {
       .then(json => {
         // generate random num
         const randomWord = json[Math.floor(Math.random() * json.length)];
-        console.log(randomWord);
+        setSolution(randomWord.word);
       })
-  }, [])
+  }, [setSolution])
 
   return (
     <div className="App">
       <h1>Wordle+</h1>
+      {solution && <div>Solution is: {solution} </div>}
     </div>
   );
 }
